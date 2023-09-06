@@ -1,5 +1,5 @@
 # Lógica de Programação <img src="https://marcas-logos.net/wp-content/uploads/2020/11/Python-logo.png" width="10%" height="10%" align="right" valign="center"/> 
-Projeto realizado na disciplina de Lógica de Programação do curso de Análise e Desenvolvimento de Sistemas, em linguagem Python, utilizando a IDE PyCharm
+Projeto realizado na disciplina de Lógica de Programação do curso de Análise e Desenvolvimento de Sistemas, em linguagem Python, utilizando a IDE PyCharm.
 ## Enunciado: 
 Imagina-se que você é um dos programadores responsáveis pela construção de app de vendas para uma determinada empresa X que vende em atacado. Uma das estratégias de vendas dessa empresa X é dar desconto maiores por unidade conforme a tabela abaixo:
 ### Quantidades x	Desconto
